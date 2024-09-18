@@ -284,7 +284,6 @@ helo-domain.sjesl.monkeys.com
 hil.habeas.com
 hong-kong.rominet.net
 hostkarma.junkemailfilter.com
-hostkarma.junkemailfilter.com[brl]
 httpbl.abuse.ch
 http.opm.blitzed.org
 hul.habeas.com

@@ -160,7 +160,6 @@ helo-domain.sjesl.monkeys.com
 hil.habeas.com
 hong-kong.rominet.net
 hostkarma.junkemailfilter.com
-hostkarma.junkemailfilter.com[brl]
 httpbl.abuse.ch
 hul.habeas.com
 iadb2.isipp.com
